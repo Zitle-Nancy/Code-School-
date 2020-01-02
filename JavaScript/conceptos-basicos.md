@@ -2,7 +2,7 @@
   <img src="./img/js.png" alt="Javascript" style="width:100%;"/>
 </div>
 
-[imágen obtenida de wikipedia](https://es.wikipedia.org/wiki/JavaScript)
+[Fuente: Wikipedia](https://es.wikipedia.org/wiki/JavaScript)
 
 El siguiente texto esta inspirado de [MDN](https://developer.mozilla.org/es/docs/Web/JavaScript).
 
@@ -21,3 +21,11 @@ lanzado en diciembre de 1995.
 Javascript es un lenguaje de **programación interpretado** y es **case-sensitive** (distingue mayúsculas y minúsculas), esto significa que la palabra **Fruta** no es igual a **fruta**.
 
 JS es utilizado principalmente del **lado del cliente** (__client-side__),implementado como parte de un navegador web permitiendo hacer páginas web dinamicas, mejorando la interacción con el usuario; sin embargo JS también puede ser utilizado del **lado del servidor** (__Server-side JavaScript o SSJS__).
+
+
+Espera, ¿Qué es un lenguaje interpretado?
+
+<div style="width:100px; margin: 0 auto;">
+  <img src="https://media.giphy.com/media/xT8qBkLnQqUdr4Ffc4/giphy.gif" alt="imagen" style="width:100%;"/>
+</div>
+
