@@ -1,4 +1,4 @@
-<div style="width:200px; margin: 0 auto;">
+<div style="width:200px; margin: 0 auto; max-width:200px;">
   <img src="./img/js.png" alt="Javascript" style="width:100%;"/>
 </div>
 
@@ -11,7 +11,7 @@ El siguiente texto esta inspirado de [MDN](https://developer.mozilla.org/es/docs
 Antes de comenzar aclaremos algo Java y JavaScript tienen semánticas y propósitos diferentes, **por 
 lo cual no son lo mismo.**
 
-<div style="width:150px; margin: 0 auto;">
+<div style="width:150px; margin: 0 auto; max-width:200px">
   <img src="https://www.acceseo.com/wp-content/uploads/2016/08/java-%E2%89%A0-javascript.jpg" alt="imagen" style="width:100%;"/>
 </div>
 
