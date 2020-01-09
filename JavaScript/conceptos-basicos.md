@@ -1,4 +1,4 @@
-<div style="width:300px; margin: 0 auto;">
+<div style="width:200px; margin: 0 auto;">
   <img src="./img/js.png" alt="Javascript" style="width:100%;"/>
 </div>
 
@@ -11,7 +11,7 @@ El siguiente texto esta inspirado de [MDN](https://developer.mozilla.org/es/docs
 Antes de comenzar aclaremos algo Java y JavaScript tienen semánticas y propósitos diferentes, **por 
 lo cual no son lo mismo.**
 
-<div style="width:200px; margin: 0 auto;">
+<div style="width:150px; margin: 0 auto;">
   <img src="https://www.acceseo.com/wp-content/uploads/2016/08/java-%E2%89%A0-javascript.jpg" alt="imagen" style="width:100%;"/>
 </div>
 
@@ -25,7 +25,21 @@ JS es utilizado principalmente del **lado del cliente** (__client-side__),implem
 
 Espera, ¿Qué es un lenguaje interpretado?
 
-<div style="width:100px; margin: 0 auto;">
-  <img src="https://media.giphy.com/media/xT8qBkLnQqUdr4Ffc4/giphy.gif" alt="imagen" style="width:100%;"/>
-</div>
+En programación existen 'tipos de lenguajes', como el **interpretado** y el **compilado**.
+Ambos son programas que convierten el código que escribes a *lenguaje de máquina*;
+el lenguaje maquina son las instrucciones que entiende el computador en código binario (unos y ceros).
 
+
+La principal diferencia son:
+
+**Lenguaje interpretado**
+Es convertido a *lenguaje de máquina* a medida que es ejecutado.
+
+Ejemplos:
+Ruby, Python y JavaScript, entre muchos otros.
+
+**Lenguaje Compilado**
+Requiere un paso adicional antes de ser ejecutado, la compilación, esta convierte el código que escribes a lenguaje de máquina.
+
+Ejemplos:
+C, C++, Java, Go y Rust, entre muchos otros.
