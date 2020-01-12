@@ -25,7 +25,7 @@ JS es utilizado principalmente del **lado del cliente** (__client-side__),implem
 
 Espera, ¿Qué es un lenguaje interpretado?
 
-<div style="width:100px; margin: 0 auto;">
-  <img src="https://media.giphy.com/media/xT8qBkLnQqUdr4Ffc4/giphy.gif" alt="imagen" style="width:100%;"/>
-</div>
-
+Antes de escribir una definición, debemos de comenzar por aclarar que los lenguajes de programación
+van dirigidos a las maquinas, a esto lo conocemos como **lenguaje de máquina**, lo que significa
+que son instrucciones que entiende el computador en código binario (unos y ceros), algunos lenguajes 
+están clasificados como __lenguajes interpretados__ o __lenguajes compilados__, las diferencias ?
