@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./img/js.png" alt="Javascript"
-    width="300" height="150"/>
+    width="300" height="300"/>
  </p>
  
 [Fuente: Wikipedia](https://es.wikipedia.org/wiki/JavaScript)
@@ -14,7 +14,7 @@ lo cual no son lo mismo.**
 
 <p align="center">
   <img src="https://www.acceseo.com/wp-content/uploads/2016/08/java-%E2%89%A0-javascript.jpg" alt="Javascript"
-    width="300" height="150"/>
+    width="300" height="300"/>
  </p>
  
 Javascript comúnmente abreviado como JS, desarrollado por **Brendan Eich** de __Netscape__ inicialmente llamado como __Mocha__ el cual fue renombrado por __LiveScript__, para finalmente quedar como JavaScript, 
