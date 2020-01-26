@@ -144,10 +144,10 @@
 * Consumo de API's
   1. Definición.
 * ¿Cómo consumir una API?
-  * Fetch.
-    1. Definición.
-    2. Sintaxis.
-    3. Ejemplos.
+    * Fetch.
+        1. Definición.
+        2. Sintaxis.
+        3. Ejemplos.
 * Debugging.
   1. Definición.
   2. Dev Tools.
