@@ -7,8 +7,8 @@
   3. Lenguajes Compilados.
   4. Lenguajes Interpretados.
 
-##### Ejercicio de la semana 1.
-  1. Definición.
+### Ejercicio de la semana 1.
+  1. Requerimientos.
   2. Preview.
 * Variables
     1. Definición.
@@ -52,7 +52,103 @@
         + Definición.
         + Sintaxis.
         + Ejemplos.
+### Ejercicio de la semana 2.
+  1. Requerimientos.
+  2. Preview.
+* Funciones
+  1. Definición.
+  2. Veamos algunos principios.
+        * Don't Repeat Yourself (DRY).
+        * Do One Thing (DOT).
+        * Keep It Simple Stupid (KISS).
+        * Less Is More.
+  3. Sintaxis.
+  4. Parámetros y Argumentos.
+        * Definición.
+  5. Tipo de funciones.
+        * Function expression.
+            * Definición.
+            * Sintaxis.
+            * Ejemplos.
+        * Function declaration.
+            * Definición.
+            * Sintaxis.
+            * Ejemplos.
+        * Function constructor.
+            * Definición.
+            * Sintaxis.
+            * Ejemplos.
+  6. Hosting.
+        * Definición.
+        * Ejemplos.
+  7. Arrow functions.
+        * Definición.
+        * Sintaxis.
+        * Ejemplos.
+  8. Diferencias entre arrow functions y funciones clasicas.
+        * Definición.
+        * Ejemplos.
+* Scope.
+  1. Definición.
+  2. Ejemplos.
+* This.
+  1. Definición.
+  2. Ejemplos.
 
-##### Ejercicio de la semana 2.
+### Ejercicio de la semana 3.
+  1. Requerimientos.
+  2. Preview.
+* Built-ins (standard library)
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+* Arrays (Arreglos).
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+* Objects (Objetos).
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+* Strings 
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+* Asincronía
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+* Callback.
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+* Promises.
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+* Async-await.
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+### Ejercicio de la semana 4.
+  1. Requerimientos.
+  2. Preview.
+* DOM (Document Object Model)
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+* Eventos con Javascript.
+  1. Definición.
+  2. Sintaxis.
+  3. Ejemplos.
+* Consumo de API's
+  1. Definición.
+* ¿Cómo consumir una API?
+  * Fetch.
     1. Definición.
-    2. Preview.
+    2. Sintaxis.
+    3. Ejemplos.
+* Debugging.
+  1. Definición.
+  2. Dev Tools.
+  3. Breakpoints.
