@@ -114,6 +114,13 @@
   1. Definición.
   2. Sintaxis.
   3. Ejemplos.
+* API's
+  1. Definición.
+* ¿Cómo consumir una API?
+    * Fetch.
+        1. Definición.
+        2. Sintaxis.
+        3. Ejemplos.
 * Asincronía
   1. Definición.
   2. Sintaxis.
@@ -130,6 +137,7 @@
   1. Definición.
   2. Sintaxis.
   3. Ejemplos.
+
 ### Ejercicio de la semana 4.
   1. Requerimientos.
   2. Preview.
@@ -137,17 +145,10 @@
   1. Definición.
   2. Sintaxis.
   3. Ejemplos.
-* Eventos con Javascript.
+* Eventos.
   1. Definición.
   2. Sintaxis.
   3. Ejemplos.
-* Consumo de API's
-  1. Definición.
-* ¿Cómo consumir una API?
-    * Fetch.
-        1. Definición.
-        2. Sintaxis.
-        3. Ejemplos.
 * Debugging.
   1. Definición.
   2. Dev Tools.
