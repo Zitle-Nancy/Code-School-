@@ -13,7 +13,7 @@
   2. Preview.
 * Variables
     1. [Definición.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#definici%C3%B3n)
-    2. [Nombrando variables]()
+    2. [Nombrando variables](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#nombrando-variables)
     3. [Sintaxis.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#sintaxis)
     4. [Ejemplos.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#ejemplos)
     5. [Var, let y const, (sus diferencias).](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#var-let-y-const-sus-diferencias)
