@@ -2,20 +2,20 @@
 
 ## Temario
 * JavaScript.
-  1. ¿Que es Javascript?
-  2. Hablemos sobre su origen.
-  2. ¿Que podemos hacer con Javascript?
-  3. Lenguajes Compilados.
-  4. Lenguajes Interpretados.
+  1. [¿Que es Javascript?](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#que-es-javascript)
+  2. [Hablemos sobre su origen.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#hablemos-sobre-su-origen)
+  2. [¿Que podemos hacer con Javascript?](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#que-podemos-hacer-con-javascript)
+  3. [Lenguajes Compilados.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#lenguaje-compilado)
+  4. [Lenguajes Interpretados.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#lenguaje-interpretado)
 
 ### Ejercicio de la semana 1.
   1. Requerimientos.
   2. Preview.
 * Variables
-    1. Definición.
-    2. Sintaxis.
-    3. Ejemplos.
-    4. Var, let y const, (sus diferencias).
+    1. [Definición.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#definici%C3%B3n)
+    2. [Sintaxis.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#sintaxis)
+    3. [Ejemplos.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#ejemplos)
+    4. [Var, let y const, (sus diferencias).](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#var-let-y-const-sus-diferencias)
 * Tipos de datos
     1. Definición.
     3. Strings.
