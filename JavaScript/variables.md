@@ -30,7 +30,7 @@ Donde:
 Vamos a crear variables para guardar nuestra información:
   - `var nombre = 'nancy';`
   - `let apellido = 'zitle';`
-# var, let y const, (sus diferencias).
+## var, let y const, (sus diferencias).
 Cuando Javascript fue creado, sólo existía `var` para definir una variable, sin embargo `var` tiene algunos problemas en cuanto a su función, es por eso que se creó `let` y `const` en versiones modernas de JS (ECMAScript 6).
 ---
 [Ejemplo de los errores que produce var :smirk:](https://repl.it/@nnzz/Usando-var)
@@ -48,4 +48,4 @@ Las palabras reservadas son aquellas que forman parte de la sintaxis del lenguaj
 este caso de JavaScript, estas palabras reservadas no debemos usarlas al nombrar variables o funciones,así evitaremos problemas en nuestro código.
 Algunas de ellas son las siguientes (no te preocupes si no las conoces, poco a poco las iremos aprendiendo :wink:):
 ---
-~~~ await break case catch class const continue debugger default delete do else export extends finally for function if import in instanceof new return super switch this throw try typeof var while ~~~
+```await break case catch class const continue debugger default delete do else export extends finally for function if import in instanceof new return super switch this throw try typeof var while ```
