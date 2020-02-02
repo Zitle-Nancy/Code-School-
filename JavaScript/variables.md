@@ -4,28 +4,39 @@
 Las variables nos ayudan a almacenar un valor variante (que puede cambiar).
 ## Nombrando Variables
 Al momento de nombrar nuestras variables debemos considerar algunas reglas:
-  - No debe incluir espacios
+  - No incluir espacios
       * `mi variable= '1';` :-1:
       * `miVariable = '1:` :+1:
   - No debe ser una [palabra reservada](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#palabras-reservadas).
       * `var = '1';` :-1:
       * `variable = '1:` :+1:
-  - No debe comenzar con números, pero si pueden contener números, ejemplo:
+  - No comenzar con números, pero si pueden contener números, ejemplo:
       * `1variable = '1';` :-1:
       * `variable1 = '1:` :+1:
-  - No debe contener signos de puntuación, sin embargo acepta signos $ y _
+  - No contener signos de puntuación, sin embargo acepta signos como: $ y _
     Ejemplos:
       * `variable? = '1';` :-1:
       * `variable$ = '1:` :+1:
       * `$variable = '1:` :+1:
+
+### Sugerencias para nombrar variables
+  - camel case: ya que no podemos incluir espacios al nombrar una variables, podemos usar la convención de camel case. La convención nos indica que el nombre de la variable empieza con una letra minúscula y se coloca en mayúscula la primera letra de las palabras que continúan.
+  Ejemplo: 
+  `userName`
+  `userList`
+  Se llama camel case porque simula una joroba de camello.[mas información](https://es.wikipedia.org/wiki/Camel_case)
+  - Utilizar nombres en inglés.
+  - Utiliza nombres descriptivos. Considera que otras programadoras leeran tu código por lo tanto asegurate de ser descritiva al nombrarlas.
+
 ## Sintaxis.
-`var variable1 = value;`
-`let variable2 = value;`
----
-Donde:
-  - _variable1, variable2_ es el nombre de la variable que has declarado.
-  - _value_ es el valor que tendra.
-  - _=_ con el simbolo de igual haces la asignación entre el nombre y el valor.
+- `var variable1 = value;`
+- `let variable2 = value;`
+
+Donde
+
+  * _variable1, variable2_ es el nombre de la variable que has declarado.
+  * _value_ es el valor que tendra.
+  * _=_ con el simbolo de igual haces la asignación entre el nombre y el valor.
 ## Ejemplos:
 Vamos a crear variables para guardar nuestra información:
   - `var nombre = 'nancy';`
@@ -59,4 +70,4 @@ Algunas de ellas son las siguientes (no te preocupes si no las conoces, poco a p
 * [Variables](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Variables)
 * [Palabras reservadas](https://tutobasico.com/reservadas-javascript/)
 * [Palabras reservadas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Palabras_Reservadas)
-*[Diferencias entre let y var](https://www.analyticslane.com/2019/06/10/diferencias-entre-var-y-let-en-javascript/)
+* [Diferencias entre let y var](https://www.analyticslane.com/2019/06/10/diferencias-entre-var-y-let-en-javascript/)
