@@ -31,15 +31,18 @@ Vamos a crear variables para guardar nuestra información:
   - `var nombre = 'nancy';`
   - `let apellido = 'zitle';`
 ## var, let y const, (sus diferencias).
+---
 Cuando Javascript fue creado, sólo existía `var` para definir una variable, sin embargo `var` tiene algunos problemas en cuanto a su función, es por eso que se creó `let` y `const` en versiones modernas de JS (ECMAScript 6).
 ---
 [Ejemplo de los errores que produce var :smirk:](https://repl.it/@nnzz/Usando-var)
 ---
 [Ejemplo de como let nos ayuda :blush: ](https://repl.it/@nnzz/Usando-let)
+---
 **Las diferencias**
 Como pudiste ver en los ejemplos la principal diferencia entre `let` y `var` es el _scope_ que tienen. El _scope_ es el alcance dentro de nuestro programa.
 ---
 ¿Y const?
+-- 
 La palabra reservada _const_ se utiliza para declarar **constantes**, es decir valores que no se pueden reasignar porque su valor no va a cambiar, por ejemplo _PI_, siempre será 3.1416
 [Ejemplo de const ](https://repl.it/@nnzz/usando-const)
 ---
