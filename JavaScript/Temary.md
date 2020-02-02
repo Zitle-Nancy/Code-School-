@@ -2,8 +2,9 @@
 
 ## Temario
 * JavaScript.
-  1. ¿Que es?
-  2.  Hablemos sobre su origen.
+  1. ¿Que es Javascript?
+  2. Hablemos sobre su origen.
+  2. ¿Que podemos hacer con Javascript?
   3. Lenguajes Compilados.
   4. Lenguajes Interpretados.
 
@@ -12,7 +13,9 @@
   2. Preview.
 * Variables
     1. Definición.
-    2. Var, let y const, (sus diferencias).
+    2. Sintaxis.
+    3. Ejemplos.
+    4. Var, let y const, (sus diferencias).
 * Tipos de datos
     1. Definición.
     3. Strings.
