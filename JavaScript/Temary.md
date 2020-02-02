@@ -1,4 +1,4 @@
-# Code-School
+# Epic-Queen-Academy
 
 ## Temario
 * JavaScript.
@@ -13,9 +13,10 @@
   2. Preview.
 * Variables
     1. [Definición.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#definici%C3%B3n)
-    2. [Sintaxis.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#sintaxis)
-    3. [Ejemplos.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#ejemplos)
-    4. [Var, let y const, (sus diferencias).](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#var-let-y-const-sus-diferencias)
+    2. [Nombrando variables]()
+    3. [Sintaxis.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#sintaxis)
+    4. [Ejemplos.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#ejemplos)
+    5. [Var, let y const, (sus diferencias).](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#var-let-y-const-sus-diferencias)
 * Tipos de datos
     1. Definición.
     3. Strings.
