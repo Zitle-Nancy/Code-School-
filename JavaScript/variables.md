@@ -7,7 +7,7 @@ Al momento de nombrar nuestras variables debemos considerar algunas reglas:
   - No incluir espacios
       * `mi variable= '1';` :-1:
       * `miVariable = '1:` :+1:
-  - No debe ser una [palabra reservada](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#palabras-reservadas).
+  - No debe ser una [palabra reservada](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#espera-qu%C3%A9-es-una-palabra-reservada-scream)
       * `var = '1';` :-1:
       * `variable = '1:` :+1:
   - No comenzar con números, pero si pueden contener números, ejemplo:
@@ -21,9 +21,11 @@ Al momento de nombrar nuestras variables debemos considerar algunas reglas:
 
 ### Sugerencias para nombrar variables
   - camel case: ya que no podemos incluir espacios al nombrar una variables, podemos usar la convención de camel case. La convención nos indica que el nombre de la variable empieza con una letra minúscula y se coloca en mayúscula la primera letra de las palabras que continúan.
+  
   Ejemplo: 
   `userName`
   `userList`
+
   Se llama camel case porque simula una joroba de camello.[mas información](https://es.wikipedia.org/wiki/Camel_case)
   - Utilizar nombres en inglés.
   - Utiliza nombres descriptivos. Considera que otras programadoras leeran tu código por lo tanto asegurate de ser descritiva al nombrarlas.
