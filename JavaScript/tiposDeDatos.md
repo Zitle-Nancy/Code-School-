@@ -54,3 +54,7 @@ let persona = {
   ciudad: "México"
 };
 ```
+
+### Referencias:
+* [Tipos de datos en javascript](https://www.netinetidesign.com/post/tipos-de-datos-en-javascript/)
+* [Tipos de datos y estructuras en JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures)
