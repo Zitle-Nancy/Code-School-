@@ -19,11 +19,14 @@
     5. [Var, let y const, (sus diferencias).](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#var-let-y-const-sus-diferencias)
 * Tipos de datos
     1. Definición.
-    3. Strings.
-    4. Números.
-    5. Booleano.
-    6. Undefined.
-    7. Null.
+    2. Strings.
+    2. Numbers.
+    4. Boolean.
+    5. Undefined y Null.
+    6. Object
+* Operadores lógicos
+    1. Definición.
+    2. Ejemplos.
 * Condicionales 
     1. Definición.
     2. if
