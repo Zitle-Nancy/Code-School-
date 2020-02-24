@@ -6,8 +6,9 @@ JavaScript soporta tres operadores lógicos: _and_, _or_ y _not_.
 
 * El operador `||` denota la operación lógica or ("o"), devuelve verdadero **si cualquiera de los dos valores dados es verdadero**. 
 
-* Not (Negación) es escrito con un símbolo de admiración !. Es un operador binario que invierte el valor original, ejemplo: !true produce false y !false produce true.
+* Not (Negación) es escrito con un símbolo de admiración `!`, el cual invierte el valor original, ejemplo: `!true` ahora es `false` y `!false` ahora es `true`.
 
+## Ejemplos:
 ```
 true && true
 // retorna: true
