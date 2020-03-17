@@ -51,7 +51,7 @@
         + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-3)   
     5. Operadores relacionales
         + Operador mayor que  (>)
-            + Definición
+            + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#operador-mayor-que-)
             + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-4)
         + Operador mayor o igual (>=)
             + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#operador-mayor-o-igual-)
