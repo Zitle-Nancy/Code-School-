@@ -26,42 +26,42 @@
     6. [Object.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#object)
 * Operadores:
     1. Asignación. 
-        + Definición
-        + Ejemplos
+        + [Definición]()
+        + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadores.md#ejemplo)
     2. Incremento y decremento
-        + Definición
-        + Ejemplos
+        + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadores.md#incremento-y-decremento)
+        + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadores.md#ejemplos-)
 * Operadores lógicos
     1. [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresLogicos.md#definici%C3%B3n)
     2. [Ejemplos.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresLogicos.md#ejemplos)
 * Operadores de Comparación
-    1. [Definición.]
+    1. [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#definici%C3%B3n)
     2. Operadores de igualdad.
         + Igualdad
-            + Definición
-            + Ejemplos
+            + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#igualdad)
+            + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos)
         + Desigualdad
-            + Definición
-            + Ejemplos
+            + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#desigualdad)
+            + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-1)
     3. Identidad / igualdad estricta (===)
-        + Definición
-        + Ejemplos
+        + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#identidad--igualdad-estricta-)
+        + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-2)
     4. Sin identidad / desigualdad estricta (!==)
-        + Definición
-        + Ejemplos   
+        + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#sin-identidad--desigualdad-estricta-)
+        + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-3)   
     5. Operadores relacionales
         + Operador mayor que  (>)
             + Definición
-            + Ejemplos
+            + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-4)
         + Operador mayor o igual (>=)
-            + Definición
-            + Ejemplos
+            + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#operador-mayor-o-igual-)
+            + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-5)
         + Operador menor que (<)
-            + Definición
-            + Ejemplos
+            + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#operador-menor-que-)
+            + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-6)
         + Operador menor o igual (<=)
-            + Definición
-            + Ejemplos
+            + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#operador-menor-o-igual-)
+            + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-7)
 * Condicionales 
     1. Definición.
     2. if

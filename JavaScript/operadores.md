@@ -1,5 +1,4 @@
-## Definción
-
+## Asignación. 
 Se utiliza para almacenar un valor específico en una variable. El símbolo utilizado es `=`.
 
 ## Ejemplo:

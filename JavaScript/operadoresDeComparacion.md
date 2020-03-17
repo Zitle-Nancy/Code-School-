@@ -1,3 +1,5 @@
+### Operadores de Comparación
+
 ## Definición.
 
 Nos ayudan a comparar valores y la respuesta es un boolean (true o false).
@@ -66,8 +68,9 @@ Sintaxis
   3 === '3' // false
 ```
 
-## Operadores relacionales
-## Operador mayor que (>)
+### Operadores relacionales
+
+## Operador mayor que (>)
 Devuelve verdadero si el operando izquierdo es **mayor** que el operando derecho.
 
 Sintaxis
