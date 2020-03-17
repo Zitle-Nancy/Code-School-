@@ -24,6 +24,13 @@
     4. [Boolean.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#boolean)
     5. [Undefined y Null.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#undefined-y-null)
     6. [Object.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#object)
+* Operadores:
+    1. Asignación. 
+        + Definición
+        + Ejemplos
+    2. Incremento y decremento
+        + Definición
+        + Ejemplos
 * Operadores lógicos
     1. [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresLogicos.md#definici%C3%B3n)
     2. [Ejemplos.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresLogicos.md#ejemplos)

@@ -114,4 +114,5 @@ Sintaxis
 ```
 
 ### Referencias:
+* [Operadores](https://uniwebsidad.com/libros/javascript/capitulo-3/operadores)
 * [Operadores de Comparación](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Comparison_Operators)
