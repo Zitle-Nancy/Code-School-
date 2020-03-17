@@ -2,11 +2,11 @@
 
 ## Temario
 * JavaScript.
-  1. [¿Que es Javascript?](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#que-es-javascript)
-  2. [Hablemos sobre su origen.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#hablemos-sobre-su-origen)
-  2. [¿Que podemos hacer con Javascript?](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#que-podemos-hacer-con-javascript)
-  3. [Lenguajes Compilados.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#lenguaje-compilado)
-  4. [Lenguajes Interpretados.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptos-basicos.md#lenguaje-interpretado)
+  1. [¿Que es Javascript?](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptosBasicos.md#que-es-javascript)
+  2. [Hablemos sobre su origen.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptosBasicos.md#hablemos-sobre-su-origen)
+  2. [¿Que podemos hacer con Javascript?](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptosBasicos.md#que-podemos-hacer-con-javascript)
+  3. [Lenguajes Compilados.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptosBasicos.md#lenguaje-compilado)
+  4. [Lenguajes Interpretados.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/conceptosBasicos.md#lenguaje-interpretado)
 
 ### Ejercicio de la semana 1.
   1. Requerimientos.
@@ -18,15 +18,43 @@
     4. [Ejemplos.](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#ejemplos)
     5. [Var, let y const, (sus diferencias).](https://github.com/Zitle-Nancy/Code-School-/blob/version-1/JavaScript/variables.md#var-let-y-const-sus-diferencias)
 * Tipos de datos
-    1. Definición.
-    2. Strings.
-    2. Numbers.
-    4. Boolean.
-    5. Undefined y Null.
-    6. Object
+    1. [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#definici%C3%B3n)
+    2. [Strings.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#string)
+    3. [Numbers.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#numbers)
+    4. [Boolean.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#boolean)
+    5. [Undefined y Null.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#undefined-y-null)
+    6. [Object.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/tiposDeDatos.md#object)
 * Operadores lógicos
-    1. Definición.
-    2. Ejemplos.
+    1. [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresLogicos.md#definici%C3%B3n)
+    2. [Ejemplos.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresLogicos.md#ejemplos)
+* Operadores de Comparación
+    1. [Definición.]
+    2. Operadores de igualdad.
+        + Igualdad
+            + Definición
+            + Ejemplos
+        + Desigualdad
+            + Definición
+            + Ejemplos
+    3. Identidad / igualdad estricta (===)
+        + Definición
+        + Ejemplos
+    4. Sin identidad / desigualdad estricta (!==)
+        + Definición
+        + Ejemplos   
+    5. Operadores relacionales
+        + Operador mayor que  (>)
+            + Definición
+            + Ejemplos
+        + Operador mayor o igual (>=)
+            + Definición
+            + Ejemplos
+        + Operador menor que (<)
+            + Definición
+            + Ejemplos
+        + Operador menor o igual (<=)
+            + Definición
+            + Ejemplos
 * Condicionales 
     1. Definición.
     2. if
