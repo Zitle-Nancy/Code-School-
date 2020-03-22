@@ -65,25 +65,32 @@
 * Condicionales 
     1. Definición.
     2. if
-        + Definición.
         + Sintaxis.
         + Ejemplos.
     3. if...else
         + Definición.
         + Sintaxis.
         + Ejemplos.
-    4. if ternario
+    4. else if()
         + Definición.
         + Sintaxis.
         + Ejemplos.
-    5. Switch (Condicional Multiple)
+    5. if anidados
+        + Definición.
+        + Sintaxis.
+        + Ejemplos.
+    6. if ternario
+        + Definición.
+        + Sintaxis.
+        + Ejemplos.
+    7. Switch (Condicional Multiple)
         + Definición.
         + Sintaxis.
         + Ejemplos.
 * Bucles (Estructuras repetitivas)
     1. Definición.
     2. for
-         + Definición.
+        + Definición.
         + Sintaxis.
         + Ejemplos.
     3. While
