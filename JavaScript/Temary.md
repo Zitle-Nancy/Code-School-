@@ -75,15 +75,15 @@
         + Definición.
         + Sintaxis.
         + Ejemplos.
-    5. if anidados
+    5. Anidando if ... else
         + Definición.
         + Sintaxis.
         + Ejemplos.
-    6. if ternario
+    6. Operador condicional (ternario)
         + Definición.
         + Sintaxis.
         + Ejemplos.
-    7. Switch (Condicional Multiple)
+    7. Switch (Condicional de selección)
         + Definición.
         + Sintaxis.
         + Ejemplos.
