@@ -63,37 +63,37 @@
             + [Definición](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#operador-menor-o-igual-)
             + [Ejemplos](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/operadoresDeComparacion.md#ejemplos-7)
 * Condicionales 
-    1. Definición.
-    2. if
-        + Sintaxis.
-        + Ejemplos.
-    3. if...else
-        + Definición.
-        + Sintaxis.
-        + Ejemplos.
-    4. else if()
-        + Definición.
-        + Sintaxis.
-        + Ejemplos.
-    5. Anidando if ... else
-        + Definición.
-        + Sintaxis.
-        + Ejemplos.
+    1. [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#condicionales)
+    2. `if`
+        + [Sintaxis.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#if)
+        + [Ejemplos.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#ejemplos-)
+    3. `if...else`
+        + [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#ifelse)
+        + [Sintaxis.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#sintaxis-1)
+        + [Ejemplos.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#ejemplos--1)
+    4. `else if()`
+        + [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#else-if)
+        + [Sintaxis.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#sintaxis-2)
+        + [Ejemplos.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#ejemplos--2)
+    5. Anidando `if ... else`
+        + [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#anidando-if--else)
+        + [Sintaxis.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#sintaxis-3)
+        + [Ejemplos.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#ejemplos--3)
     6. Operador condicional (ternario)
-        + Definición.
-        + Sintaxis.
-        + Ejemplos.
-    7. Switch (Condicional de selección)
-        + Definición.
-        + Sintaxis.
-        + Ejemplos.
+        + [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#operador-condicional-ternario)
+        + [Sintaxis.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#sintaxis-4)
+        + [Ejemplos.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#ejemplos--4)
+    7. `switch` (Condicional de selección)
+        + [Definición.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#switch-condicional-de-selecci%C3%B3n)
+        + [Sintaxis.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#sintaxis-5)
+        + [Ejemplos.](https://github.com/Zitle-Nancy/Javascript/blob/version-1/JavaScript/condicionales.md#ejemplos--5)
 * Bucles (Estructuras repetitivas)
     1. Definición.
     2. for
         + Definición.
         + Sintaxis.
         + Ejemplos.
-    3. While
+    3. while
         + Definición.
         + Sintaxis.
         + Ejemplos.

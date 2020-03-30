@@ -127,3 +127,9 @@ no cumpla con la expresión ya que no sabrá donde debe terminar, así que te re
 
 ## Ejemplos 👩🏽‍💻😉
 https://repl.it/@zz_nn/switch
+
+### Referencias:
+* [if...else](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/if...else)
+* [Estructura IF](https://desarrolloweb.com/articulos/544.php)
+* [Operador condicional(ternario)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Conditional_Operator)
+* [switch](https://www.w3schools.com/js/js_switch.asp)
